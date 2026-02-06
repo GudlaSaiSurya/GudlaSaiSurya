@@ -12,8 +12,6 @@ I enjoy working on backend systems, ML models, and full project lifecycles — f
 
 B.Tech in Computer Science Engineering CGPA: 7.12
 
-Gudla_resume
-
 🧠 Technical Skills 👨‍💻 Programming
 
 C • C++ • Python • Java
